@@ -1,0 +1,75 @@
+body{
+    width: 1000px;
+    background-color: antiquewhite;
+    height: 1500px;
+
+}
+
+div#menu{
+    background-color: aqua;
+    height: 50px;
+    width: 900px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 200px;
+}
+li{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 12px;
+    color: brown;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+#img1{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+#img2{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 260px;
+
+}
+#img3{
+    position:absolute;
+    margin-left: 250px;
+    margin-top: 500px;
+
+}
+p#text1{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+p#text2{
+    position: absolute;
+    margin-left: 250px;
+    margin-top: 270px;
+}
+p#text3{
+    position: absolute;
+    margin-left: 550px;
+    margin-top: 520px;
+}
+
+#mulher{
+    position: absolute;
+    margin-top: 800px;
+    margin-left: 250px;
+}
+#txt4{
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 800px;
+}
+#final{
+    position: absolute;
+    color: blue;
+    margin-top: 1400px;
+    margin-left: ;
+    text-align: center;
+    margin-left: 500px;
+
+}
